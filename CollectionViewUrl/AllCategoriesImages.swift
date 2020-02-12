@@ -30,7 +30,7 @@ struct AllCategoriesImages {
         
     }
     
-   // func AllImage(completion: (UIImage) -> Void ) {
+   
         
-   // }
-}
+    }
+
